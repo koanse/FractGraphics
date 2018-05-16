@@ -1,0 +1,16 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\FractGraphics.Form1.resources
+obj\Debug\FractGraphics.Properties.Resources.resources
+obj\Debug\FractGraphics.csproj.GenerateResource.Cache
+bin\Debug\FractGraphics.exe
+bin\Debug\FractGraphics.pdb
+obj\Debug\FractGraphics.exe
+obj\Debug\FractGraphics.pdb
+bin\Release\FractGraphics.exe
+bin\Release\FractGraphics.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\FractGraphics.Form1.resources
+obj\Release\FractGraphics.Properties.Resources.resources
+obj\Release\FractGraphics.csproj.GenerateResource.Cache
+obj\Release\FractGraphics.exe
+obj\Release\FractGraphics.pdb

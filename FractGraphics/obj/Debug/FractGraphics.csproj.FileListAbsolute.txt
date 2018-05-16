@@ -1,0 +1,8 @@
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Projects2005\FractGraphics\FractGraphics\obj\Debug\FractGraphics.exe
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Projects2005\FractGraphics\FractGraphics\obj\Debug\FractGraphics.pdb
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Projects2005\FractGraphics\FractGraphics\bin\Debug\FractGraphics.exe
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Projects2005\FractGraphics\FractGraphics\bin\Debug\FractGraphics.pdb
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Projects2005\FractGraphics\FractGraphics\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Projects2005\FractGraphics\FractGraphics\obj\Debug\FractGraphics.Form1.resources
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Projects2005\FractGraphics\FractGraphics\obj\Debug\FractGraphics.Properties.Resources.resources
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Projects2005\FractGraphics\FractGraphics\obj\Debug\FractGraphics.csproj.GenerateResource.Cache
